@@ -1,0 +1,5 @@
+2 aaaa 12.20
+3 bbbbb 10.35
+4 ccc 13.35
+5 dddddd 3.35
+6 eeee 14.35
